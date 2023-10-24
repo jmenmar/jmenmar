@@ -26,6 +26,9 @@
 ### 🏀 Picknroll
 
 ![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
+![Static Badge](https://img.shields.io/badge/Compose-orange)
+![Static Badge](https://img.shields.io/badge/Room-orange)
+![Static Badge](https://img.shields.io/badge/Corrutinas-orange)
 
 Simulador de baloncesto en el que tomas el control de un equipo universitario. Ajusta rotaciones, minutos y tácticas para conseguir victorias y que tus jugadores mejoren. Consigue posicionarlos en el draft y busca nuevos jóvenes talentos de cara a la próxima temporada.
 <div class="inline-block">
@@ -38,6 +41,9 @@ Simulador de baloncesto en el que tomas el control de un equipo universitario. A
 ### 🚵 Random Cycling
 
 ![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
+![Static Badge](https://img.shields.io/badge/Compose-orange)
+![Static Badge](https://img.shields.io/badge/Room-orange)
+![Static Badge](https://img.shields.io/badge/Corrutinas-orange)
 
 Descripción
 <div class="inline-block">
