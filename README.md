@@ -1,4 +1,4 @@
-## Proyectos en los que he colaborado
+## Proyectos publicados en los que he colaborado
 
 <table>
   <tr>
