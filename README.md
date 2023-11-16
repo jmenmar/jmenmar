@@ -26,7 +26,7 @@
 ### 🏀 Picknroll
 
 ![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
-![Static Badge](https://img.shields.io/badge/Compose-orange)
+![Static Badge](https://img.shields.io/badge/Jetpack_Compose-orange)
 ![Static Badge](https://img.shields.io/badge/Room-orange)
 ![Static Badge](https://img.shields.io/badge/Corrutinas-orange)
 
@@ -41,14 +41,8 @@ Simulador de baloncesto en el que tomas el control de un equipo universitario. A
 ### 🚵 Random Cycling
 
 ![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
-![Static Badge](https://img.shields.io/badge/Compose-orange)
+![Static Badge](https://img.shields.io/badge/Jetpack_Compose-orange)
 ![Static Badge](https://img.shields.io/badge/Room-orange)
 ![Static Badge](https://img.shields.io/badge/Corrutinas-orange)
 
-Descripción
-<div class="inline-block">
-  <img src="https://lh3.googleusercontent.com/pw/ADCreHf41v_VSqQNefwXlwUpJeYa7HzU1D-DijcPXOl16_ecKeXIY5Dd6CcJXFHrevN-z6uoaOUyhcelKJ9E0yyfUEOrf1Vbcr8k57rOPZLCshnY2e_PPxWLU_gwqq9E3zIORq_BTzhscHwlwoF4R8E-AeDn=w426-h866-s-no?authuser=0" width="150" height="300">
-  <img src="https://lh3.googleusercontent.com/pw/ADCreHf41v_VSqQNefwXlwUpJeYa7HzU1D-DijcPXOl16_ecKeXIY5Dd6CcJXFHrevN-z6uoaOUyhcelKJ9E0yyfUEOrf1Vbcr8k57rOPZLCshnY2e_PPxWLU_gwqq9E3zIORq_BTzhscHwlwoF4R8E-AeDn=w426-h866-s-no?authuser=0" width="150" height="300">
-  <img src="https://lh3.googleusercontent.com/pw/ADCreHf41v_VSqQNefwXlwUpJeYa7HzU1D-DijcPXOl16_ecKeXIY5Dd6CcJXFHrevN-z6uoaOUyhcelKJ9E0yyfUEOrf1Vbcr8k57rOPZLCshnY2e_PPxWLU_gwqq9E3zIORq_BTzhscHwlwoF4R8E-AeDn=w426-h866-s-no?authuser=0" width="150" height="300">
-  <img src="https://lh3.googleusercontent.com/pw/ADCreHf41v_VSqQNefwXlwUpJeYa7HzU1D-DijcPXOl16_ecKeXIY5Dd6CcJXFHrevN-z6uoaOUyhcelKJ9E0yyfUEOrf1Vbcr8k57rOPZLCshnY2e_PPxWLU_gwqq9E3zIORq_BTzhscHwlwoF4R8E-AeDn=w426-h866-s-no?authuser=0" width="150" height="300">
-</div>
+...
