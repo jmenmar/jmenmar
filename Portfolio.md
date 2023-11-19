@@ -1,4 +1,4 @@
-## Proyectos publicados en los que he colaborado
+## Proyectos públicos en los que he colaborado
 
 <table>
   <tr>
@@ -38,11 +38,13 @@ Simulador de baloncesto en el que tomas el control de un equipo universitario. A
   <img src="https://lh3.googleusercontent.com/pw/ADCreHff_ARzzyxtC1W8-XC5t8hq-HloLW4hkr2Eaii42huhrxuSRIxSlFU33-tfzenMwYWXr2g2nDuIqXD3K3JeyWkVu4nOZ5ixgpe2S-ynM7pt3AHx0OQLGg_9SF_yIKJoovyLES1BZ6_g2hVuAt0BVqZ7=w429-h857-s-no-gm?authuser=0" width="150" height="300">
 </div>
 
-### 🚵 Random Cycling
+### 🚵 Breakaway
 
 ![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
 ![Static Badge](https://img.shields.io/badge/Jetpack_Compose-orange)
 ![Static Badge](https://img.shields.io/badge/Room-orange)
 ![Static Badge](https://img.shields.io/badge/Corrutinas-orange)
 
-...
+<div class="inline-block">
+  <img src="https://lh3.googleusercontent.com/pw/ADCreHdDmx-PHCpyGDnjJIGQCqqMp8Z3I_AGjTgmooMdP1XdNq4gfdBzsL-8V0mhTBVEsz6Wx9GvH_weLY0Qwd9-_dX862kJvdLXyldgV3jChJU6LA5QgsQQXuwRYPUKpnyfHcwI_9FUdhhj4qkl_qnK-M6X=w405-h857-s-no-gm?authuser=0" width="150" height="300">
+</div>
