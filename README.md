@@ -38,7 +38,7 @@
   <img src="https://lh3.googleusercontent.com/pw/ADCreHff_ARzzyxtC1W8-XC5t8hq-HloLW4hkr2Eaii42huhrxuSRIxSlFU33-tfzenMwYWXr2g2nDuIqXD3K3JeyWkVu4nOZ5ixgpe2S-ynM7pt3AHx0OQLGg_9SF_yIKJoovyLES1BZ6_g2hVuAt0BVqZ7=w429-h857-s-no-gm?authuser=0" width="150" height="300">
 </div>
 
-### 🚵 Market
+### 🛒 Market
 
 ![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
 ![Static Badge](https://img.shields.io/badge/Jetpack_Compose-orange)
