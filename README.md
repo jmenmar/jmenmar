@@ -8,14 +8,19 @@
     <th>
       <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/54/ac/a2/54aca21d-f9ac-907f-98cb-aae4ddc49691/AppIcon-0-1x_U007epad-0-0-0-0-0-P3-85-220-0.png/246x0w.webp" width="150" height="150">
     </th>
+    <th>
+      <img src="https://play-lh.googleusercontent.com/1R5k8OTDtxNenZl0wn8CCHg830FWQcAcGm5JaWkSwU_oPv4ZDzPtE_Ek5wq7qx3Iio8=w480-h960-rw" width="150" height="150">
+    </th>
   </tr>
   <tr>
     <td><a href="https://apps.apple.com/pa/app/cori-diabetes-simplificada/id1527053345">Cori</a></td>
     <td><a href="https://apps.apple.com/ec/app/fitwoody/id6449358284">FitWoody</a></td></td>
+    <td><a href="https://play.google.com/store/apps/details?id=com.aikreate.kids">AI Kreate</a></td></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/iOS-grey?logo=Apple"></td>
     <td><img src="https://img.shields.io/badge/iOS-grey?logo=Apple"></td>
+    <td><img src="https://img.shields.io/badge/iOS-grey?logo=Apple"> <img src="https://img.shields.io/badge/Android-gray?logo=Android"></td>
   </tr>
 </table>
 
@@ -23,6 +28,22 @@
 
 
 ## Proyectos propios
+### 🎴 Suji
+
+![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
+![Static Badge](https://img.shields.io/badge/Jetpack_Compose-orange)
+![Static Badge](https://img.shields.io/badge/Firebase-orange)
+![Static Badge](https://img.shields.io/badge/Corrutinas-orange)
+![Static Badge](https://img.shields.io/badge/Dagger_Hilt-orange)
+
+<i>Juego numérico de cartas con posibilidad de crear salas multijugador</i>
+<div class="inline-block">
+  <img src="https://lh3.googleusercontent.com/pw/ABLVV84NbNWJs-RTlMlNyDKuONRU1ofNlOFx_Ho035HRnsQDUoTb475m2G1YVRbtENYHOjvHcZgWyDgkQVItvPYJSyGaPj7AYbKumzk2QUTejKkGhylcBgwYGLF_SfeQVr9WUA82nL7kTVqAYQ6UIYvNuGsc=w420-h839-s-no-gm?authuser=0" width="150" height="300">
+  <img src="https://lh3.googleusercontent.com/pw/ABLVV85coub0xdIQvS_jwAMaIrIFxZCK2Ki7R_-nMw9dXn2YA4p3DeIJBhLp-TmPlDdSqYROp0kY_6UMCQ8z09Z2NCopU2wnJImHMmgxkgZA5NX9_uotAiDQ2-mOdha9NQLcPLTrkNE-FShejhv8ZijmuK9X=w423-h839-s-no-gm?authuser=0" width="150" height="300">
+  <img src="https://lh3.googleusercontent.com/pw/ABLVV85_8CQzRFRNFmiz7B6dnz00qI5_RbNYpZRJwExJLH1oBIss_uysofWUDIE3Vbmcnt6j1ZwJqhkQxBRDI-p4eL_dTZrGzcuey3VTbAS-oOU-WrmGUjs4wRKrv-I1dkycl-sF8lzIvhwT7XCHC2xp4jkA=w423-h839-s-no-gm?authuser=0" width="150" height="300">
+  <img src="https://lh3.googleusercontent.com/pw/ABLVV87CUy99O5Gc_D-SULKxnTFjuaFfDbEeLLkbeCtnsAPFUErr_OY4bJ6ndev1eq6HTqkGxGPp1zIqo4x64Ipd8ppSn29IAXAUxtUxFpn-oNwDc_nDOvLr_4cSrA7KKTAxD1ujqfVauSTw44J1tnyUZRJM=w422-h839-s-no-gm?authuser=0" width="150" height="300">
+</div>
+
 ### 🏀 Picknroll
 
 ![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
