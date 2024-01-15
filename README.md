@@ -1,4 +1,4 @@
-## Proyectos públicos en los que he colaborado
+## Public projects I have collaborated on
 
 <table>
   <tr>
@@ -27,7 +27,7 @@
 
 
 
-## Proyectos propios
+## Own projects
 ### 🎴 Suji
 
 ![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
@@ -36,7 +36,7 @@
 ![Static Badge](https://img.shields.io/badge/Corrutinas-orange)
 ![Static Badge](https://img.shields.io/badge/Dagger_Hilt-orange)
 
-<i>Juego numérico de cartas con posibilidad de crear salas multijugador</i>
+<i>Numerical card game with the possibility to create multiplayer rooms</i>
 <div class="inline-block">
   <img src="https://lh3.googleusercontent.com/pw/ABLVV84NbNWJs-RTlMlNyDKuONRU1ofNlOFx_Ho035HRnsQDUoTb475m2G1YVRbtENYHOjvHcZgWyDgkQVItvPYJSyGaPj7AYbKumzk2QUTejKkGhylcBgwYGLF_SfeQVr9WUA82nL7kTVqAYQ6UIYvNuGsc=w420-h839-s-no-gm?authuser=0" width="150" height="300">
   <img src="https://lh3.googleusercontent.com/pw/ABLVV85coub0xdIQvS_jwAMaIrIFxZCK2Ki7R_-nMw9dXn2YA4p3DeIJBhLp-TmPlDdSqYROp0kY_6UMCQ8z09Z2NCopU2wnJImHMmgxkgZA5NX9_uotAiDQ2-mOdha9NQLcPLTrkNE-FShejhv8ZijmuK9X=w423-h839-s-no-gm?authuser=0" width="150" height="300">
@@ -51,7 +51,7 @@
 ![Static Badge](https://img.shields.io/badge/Room-orange)
 ![Static Badge](https://img.shields.io/badge/Corrutinas-orange)
 
-<i>Simulador de baloncesto en el que tomas el control de un equipo universitario. Ajusta rotaciones, minutos y tácticas para conseguir victorias y que tus jugadores mejoren. Consigue posicionarlos en el draft y busca nuevos jóvenes talentos de cara a la próxima temporada.</i>
+<i>Basketball simulator in which you take control of a university team. Adjust rotations, minutes and tactics to achieve victories and improve your players. Get them positioned in the draft and look for new young talents for the next season.</i>
 <div class="inline-block">
   <img src="https://lh3.googleusercontent.com/pw/ADCreHf41v_VSqQNefwXlwUpJeYa7HzU1D-DijcPXOl16_ecKeXIY5Dd6CcJXFHrevN-z6uoaOUyhcelKJ9E0yyfUEOrf1Vbcr8k57rOPZLCshnY2e_PPxWLU_gwqq9E3zIORq_BTzhscHwlwoF4R8E-AeDn=w426-h866-s-no?authuser=0" width="150" height="300">
   <img src="https://lh3.googleusercontent.com/pw/ADCreHeY-3T70siQBz4PExcqbX8ptfyUFUSVv26nYIFz2Abk7t2HjKlozEeWn_6WY3jxaqfZgtWpyX6SZiZcV85WpINyAwB0J1TvYtwn6S2lcd3Mbzvp5IRlE1kbGfaGYRYsybADmHeFzIL-W-cYonDFeF3s=w429-h857-s-no-gm?authuser=0" width="150" height="300">
@@ -67,7 +67,7 @@
 ![Static Badge](https://img.shields.io/badge/Corrutinas-orange)
 ![Static Badge](https://img.shields.io/badge/Dagger_Hilt-orange)
 
-<i>Aplicación de uso doméstico para anotar alimentos necesarios, llevar una lista al súper, registrar compras y realizar un control en el precio de los alimentos.</i>
+<i>Application for home use to record food needs, keep a shopping list, record purchases and keep track of food prices.</i>
 <div class="inline-block">
   <img src="https://lh3.googleusercontent.com/pw/ABLVV867VJxPjEt0ojlsvltKsKa5jM47sB4NJZ_BaHHIG630hlwlgWbGS89JsToFXbVkxfW87XsoDZiO6RF_tCTQHc1P58lirWovm2L-U3xEZW1nXPjdY-10tA_MSqOxFGBf7XlLSyzim5cuejGq2n-8yDmT=w416-h839-s-no-gm?authuser=0" width="150" height="300">
   <img src="https://lh3.googleusercontent.com/pw/ABLVV87EVoVDam_1ibLpJDGE22qSEB-eEVaIzbWzvKBeP10Z6MOp-Y2QXxKEd-_T_hI9yAgQkbM8G04xFH3RGTxZjdHTV-7UoycrjmeRC6dCDUMwaY0BRmi1CKKbq_Xp8nVVX4yDbF1UDQifew76kLAkF4xo=w416-h839-s-no-gm?authuser=0" width="150" height="300">
@@ -82,6 +82,7 @@
 ![Static Badge](https://img.shields.io/badge/Room-orange)
 ![Static Badge](https://img.shields.io/badge/Corrutinas-orange)
 
+<i>Cycling Manager</i>
 <div class="inline-block">
   <img src="https://lh3.googleusercontent.com/pw/ADCreHdDmx-PHCpyGDnjJIGQCqqMp8Z3I_AGjTgmooMdP1XdNq4gfdBzsL-8V0mhTBVEsz6Wx9GvH_weLY0Qwd9-_dX862kJvdLXyldgV3jChJU6LA5QgsQQXuwRYPUKpnyfHcwI_9FUdhhj4qkl_qnK-M6X=w405-h857-s-no-gm?authuser=0" width="150" height="300">
 </div>
