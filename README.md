@@ -35,6 +35,7 @@
 ![Static Badge](https://img.shields.io/badge/Firebase-orange)
 ![Static Badge](https://img.shields.io/badge/Corrutinas-orange)
 ![Static Badge](https://img.shields.io/badge/Dagger_Hilt-orange)
+![Static Badge](https://img.shields.io/badge/Preferences_DataStore-orange)
 
 <i>Numerical card game with the possibility to create multiplayer rooms</i>
 <div class="inline-block">
