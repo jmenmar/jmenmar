@@ -1,5 +1,6 @@
+<!--
 ## Public projects I have collaborated on
-
+ 
 <table>
   <tr>
     <th>
@@ -25,9 +26,7 @@
 </table>
 
 
-
-
-## Own projects
+## Own projects-->
 ### 🎴 Suji
 
 ![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
