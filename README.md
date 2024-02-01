@@ -1,3 +1,6 @@
+<!--<h1 align="center">Hi 👋, I'm Javier</h1>
+<h3 align="center">A passionate mobile developer from Basque Country, Spain</h3>-->
+
 <!--
 ## Public projects I have collaborated on
  
