@@ -1,7 +1,7 @@
-<!--<h1 align="center">Hi 👋, I'm Javier</h1>
-<h3 align="center">A passionate mobile developer from Basque Country, Spain</h3>-->
+<h1 align="center">Hi 👋, I'm Javier</h1>
+<h3 align="center">A passionate mobile developer from Basque Country, Spain</h3>
+</br>
 
-<!--
 ## Public projects I have collaborated on
  
 <table>
@@ -27,19 +27,19 @@
     <td><img src="https://img.shields.io/badge/iOS-grey?logo=Apple"> <img src="https://img.shields.io/badge/Android-gray?logo=Android"></td>
   </tr>
 </table>
+</br>
 
-
-## Own projects-->
+## Own projects
 ### 🎴 Suji
 
 ![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
 ![Static Badge](https://img.shields.io/badge/Jetpack_Compose-orange)
 ![Static Badge](https://img.shields.io/badge/Firebase-orange)
-![Static Badge](https://img.shields.io/badge/Corrutinas-orange)
+![Static Badge](https://img.shields.io/badge/Coroutines-orange)
 ![Static Badge](https://img.shields.io/badge/Dagger_Hilt-orange)
 ![Static Badge](https://img.shields.io/badge/Preferences_DataStore-orange)
 
-<i>Numerical card game with the possibility to create multiplayer rooms</i>
+<i>Traditional Japanese styled numerical card game with the possibility to create online multiplayer rooms</i>
 <div class="inline-block">
   <img src="https://lh3.googleusercontent.com/pw/ABLVV84NbNWJs-RTlMlNyDKuONRU1ofNlOFx_Ho035HRnsQDUoTb475m2G1YVRbtENYHOjvHcZgWyDgkQVItvPYJSyGaPj7AYbKumzk2QUTejKkGhylcBgwYGLF_SfeQVr9WUA82nL7kTVqAYQ6UIYvNuGsc=w420-h839-s-no-gm?authuser=0" width="150" height="300">
   <img src="https://lh3.googleusercontent.com/pw/ABLVV85coub0xdIQvS_jwAMaIrIFxZCK2Ki7R_-nMw9dXn2YA4p3DeIJBhLp-TmPlDdSqYROp0kY_6UMCQ8z09Z2NCopU2wnJImHMmgxkgZA5NX9_uotAiDQ2-mOdha9NQLcPLTrkNE-FShejhv8ZijmuK9X=w423-h839-s-no-gm?authuser=0" width="150" height="300">
@@ -52,7 +52,7 @@
 ![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
 ![Static Badge](https://img.shields.io/badge/Jetpack_Compose-orange)
 ![Static Badge](https://img.shields.io/badge/Room-orange)
-![Static Badge](https://img.shields.io/badge/Corrutinas-orange)
+![Static Badge](https://img.shields.io/badge/Coroutines-orange)
 
 <i>Basketball simulator in which you take control of a university team. Adjust rotations, minutes and tactics to achieve victories and improve your players. Get them positioned in the draft and look for new young talents for the next season.</i>
 <div class="inline-block">
@@ -62,12 +62,30 @@
   <img src="https://lh3.googleusercontent.com/pw/ADCreHff_ARzzyxtC1W8-XC5t8hq-HloLW4hkr2Eaii42huhrxuSRIxSlFU33-tfzenMwYWXr2g2nDuIqXD3K3JeyWkVu4nOZ5ixgpe2S-ynM7pt3AHx0OQLGg_9SF_yIKJoovyLES1BZ6_g2hVuAt0BVqZ7=w429-h857-s-no-gm?authuser=0" width="150" height="300">
 </div>
 
+### 🍜 Goxo Goxo
+
+![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
+![Static Badge](https://img.shields.io/badge/Jetpack_Compose-orange)
+![Static Badge](https://img.shields.io/badge/Firebase-orange)
+![Static Badge](https://img.shields.io/badge/Coroutines-orange)
+![Static Badge](https://img.shields.io/badge/Dagger_Hilt-orange)
+![Static Badge](https://img.shields.io/badge/Coil-orange)
+![Static Badge](https://img.shields.io/badge/Vico_Charts-orange)
+
+<i>Application for home use to record food needs, foods in freezer, weekly menu, keep a shopping list and record purchases tickets. 'Goxo Goxo' in basque means yummy yummy</i>
+<div class="inline-block">
+  <img src="https://lh3.googleusercontent.com/pw/ABLVV87eeZgF_NNpC6JkgbUF6JF25LPMX2AQEmQZgR2oLU19_Wf9zjxzmbQFpyF4Ujieej-vfCbUMcD6N3QHJ9TKpIjDBE8p_nwPm4juK69fAgJGUQQELhlh56pI1TwP4iDdrrmNF9_zRFIYIlBKf-WBAzwl=w420-h839-s-no-gm?authuser=0" width="150" height="300">
+  <img src="https://lh3.googleusercontent.com/pw/ABLVV87u6vSw4fCvteygWUrZaxrCkb0_Wu3rdChC15IsOXKqRzp0NKGbq1rzn9BKo840XcR0JEsPZkhCG8EcQ1-u6Yn8cdMom7Pie3mIuPolzLXaSuCmKacUr_-hNN3RjJaCpBnQjePK52Zl_Yr0mfLbm2fn=w419-h839-s-no-gm?authuser=0" width="150" height="300">
+  <img src="https://lh3.googleusercontent.com/pw/ABLVV84Y-tecAVAO4QOLMpi4k34JUYQKy9DNQxQ42CEisF2_OKBb2SUKZ9EClxTaxpInsSnGS0NurU1vUoyIYbO64tytWu5T5bXdX3pgreSJreV-_Lkp_d66bAIXbJC8C4Fk4jRrauCDp-tswz-0P7XbOfju=w420-h839-s-no-gm?authuser=0" width="150" height="300">
+  <img src="https://lh3.googleusercontent.com/pw/ABLVV87oVFjXst8XtSfu6SzskY2gTFyq6o7uW0Ajdz65nh2BAXOePDDx3venQAYRYwdfZ0IsxD32NvS9kXAHhv5M8qpfpI7wg7Va6tQVpAEISMqs0geG0_WmYnrpvVB49J5FnCLtAkpuABeWfHD3EQ9mSK0o=w419-h839-s-no-gm?authuser=0" width="150" height="300">
+</div>
+
 ### 🛒 Market
 
 ![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
 ![Static Badge](https://img.shields.io/badge/Jetpack_Compose-orange)
 ![Static Badge](https://img.shields.io/badge/Firebase-orange)
-![Static Badge](https://img.shields.io/badge/Corrutinas-orange)
+![Static Badge](https://img.shields.io/badge/Coroutines-orange)
 ![Static Badge](https://img.shields.io/badge/Dagger_Hilt-orange)
 
 <i>Application for home use to record food needs, keep a shopping list, record purchases and keep track of food prices.</i>
@@ -83,9 +101,9 @@
 ![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
 ![Static Badge](https://img.shields.io/badge/Jetpack_Compose-orange)
 ![Static Badge](https://img.shields.io/badge/Room-orange)
-![Static Badge](https://img.shields.io/badge/Corrutinas-orange)
+![Static Badge](https://img.shields.io/badge/Coroutines-orange)
 
-<i>Cycling Manager</i>
+<i>Cycling Manager under development 🚧</i>
 <div class="inline-block">
   <img src="https://lh3.googleusercontent.com/pw/ADCreHdDmx-PHCpyGDnjJIGQCqqMp8Z3I_AGjTgmooMdP1XdNq4gfdBzsL-8V0mhTBVEsz6Wx9GvH_weLY0Qwd9-_dX862kJvdLXyldgV3jChJU6LA5QgsQQXuwRYPUKpnyfHcwI_9FUdhhj4qkl_qnK-M6X=w405-h857-s-no-gm?authuser=0" width="150" height="300">
 </div>
