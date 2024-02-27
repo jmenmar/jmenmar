@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A passionate mobile developer from Basque Country, Spain</h3>
-<h4 align="center">I love to use my imagination and creativity along with the ability to develop new mobile applications. This allows me to enjoy my work.</br>
-I don't need AI because my head is a universe full of ideas! 🌌</h4>
+<h4 align="center">I love to use my imagination and creativity along with the ability to develop new mobile applications. This allows me to enjoy my work. I don't need AI because my head is a universe full of ideas! 🌌</h4>
 </br>
 
 ## 🤝 Public projects I've collaborated on
