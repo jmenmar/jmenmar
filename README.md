@@ -2,7 +2,7 @@
 <h3 align="center">A passionate mobile developer from Basque Country, Spain</h3>
 </br>
 
-## Public projects I have collaborated on
+## 🤝 Public projects I've collaborated on
  
 <table>
   <tr>
@@ -29,7 +29,7 @@
 </table>
 </br>
 
-## Own projects
+## ✨ Own projects
 ### 🎴 Suji
 
 ![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
