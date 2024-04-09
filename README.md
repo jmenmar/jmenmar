@@ -16,16 +16,21 @@
     <th>
       <img src="https://play-lh.googleusercontent.com/1R5k8OTDtxNenZl0wn8CCHg830FWQcAcGm5JaWkSwU_oPv4ZDzPtE_Ek5wq7qx3Iio8=w480-h960-rw" width="150" height="150">
     </th>
+   <th>
+      <img src="https://play-lh.googleusercontent.com/0yw7s9cEI9C4lS_vR_2jlAGwZ1L014TkvTDrh1GpV274d-VNQbYUtzqXHd300lAWfwk=w240-h480" width="150" height="150">
+    </th>
   </tr>
   <tr>
     <td><a href="https://apps.apple.com/pa/app/cori-diabetes-simplificada/id1527053345">Cori</a></td>
     <td><a href="https://apps.apple.com/ec/app/fitwoody/id6449358284">FitWoody</a></td></td>
     <td><a href="https://play.google.com/store/apps/details?id=com.aikreate.kids">AI Kreate</a></td></td>
+    <td><a href="https://play.google.com/store/apps/details?id=health.iki.patients">IKI Health</a></td></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/iOS-grey?logo=Apple"></td>
     <td><img src="https://img.shields.io/badge/iOS-grey?logo=Apple"></td>
     <td><img src="https://img.shields.io/badge/iOS-grey?logo=Apple"> <img src="https://img.shields.io/badge/Android-gray?logo=Android"></td>
+   <td><img src="https://img.shields.io/badge/iOS-grey?logo=Apple"> <img src="https://img.shields.io/badge/Android-gray?logo=Android"></td>
   </tr>
 </table>
 </br>
@@ -55,7 +60,7 @@
 ![Static Badge](https://img.shields.io/badge/Room-orange)
 ![Static Badge](https://img.shields.io/badge/Coroutines-orange)
 
-<i>Basketball simulator in which you take control of a university team. Adjust rotations, minutes and tactics to achieve victories and improve your players. Get them positioned in the draft and look for new young talents for the next season.</i>
+<i>Basketball simulator in which you take control of a college team. Adjust rotations, minutes and tactics to achieve victories and improve your players. Get them positioned in the draft and look for new young talents for the next season.</i>
 <div class="inline-block">
   <img src="https://lh3.googleusercontent.com/pw/ADCreHf41v_VSqQNefwXlwUpJeYa7HzU1D-DijcPXOl16_ecKeXIY5Dd6CcJXFHrevN-z6uoaOUyhcelKJ9E0yyfUEOrf1Vbcr8k57rOPZLCshnY2e_PPxWLU_gwqq9E3zIORq_BTzhscHwlwoF4R8E-AeDn=w426-h866-s-no?authuser=0" width="150" height="300">
   <img src="https://lh3.googleusercontent.com/pw/ADCreHeY-3T70siQBz4PExcqbX8ptfyUFUSVv26nYIFz2Abk7t2HjKlozEeWn_6WY3jxaqfZgtWpyX6SZiZcV85WpINyAwB0J1TvYtwn6S2lcd3Mbzvp5IRlE1kbGfaGYRYsybADmHeFzIL-W-cYonDFeF3s=w429-h857-s-no-gm?authuser=0" width="150" height="300">
