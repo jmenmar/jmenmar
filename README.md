@@ -102,12 +102,26 @@
   <img src="https://lh3.googleusercontent.com/pw/ABLVV86B9U0dbH6swJoClekwqf_dvsBU9_6NzUPjcZ3IgSE2Xv55EgiAIuesi1DmhGcjHy9b0gHYr8R1hqwngD1uvLBiohj_gKpLbYcBGMHC3Er7DaRs_Qy2J35KEkkBCip5-8I5Cz3YU-SxYhpPSydrqyzG=w419-h839-s-no-gm?authuser=0" width="150" height="300">
 </div>
 
+### 🗿 Moai
+
+![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
+![Static Badge](https://img.shields.io/badge/Jetpack_Compose-orange)
+![Static Badge](https://img.shields.io/badge/Firebase-orange)
+![Static Badge](https://img.shields.io/badge/Coroutines-orange)
+![Static Badge](https://img.shields.io/badge/Dagger_Hilt-orange)
+
+<i>Multiplayer online cards game under development 🚧</i>
+<div class="inline-block">
+  <img src="https://lh3.googleusercontent.com/pw/AP1GczOaW_M8rVgcO9GNdIbFN6QIonxZyvTu1tGaridbC-wfeph4n0BQYTqFpBXoDAKtyUQaussorQ9V8Skzpe1uAAcY8tG0Q0GEwO0rsWvRKmp6xbthxZJpog40R5Hpzq4BOIUy2Uih9bBlGYVXCreDpJwf=w416-h841-s-no?authuser=0" width="150" height="300">
+</div>
+
 ### 🚵 Breakaway
 
 ![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
 ![Static Badge](https://img.shields.io/badge/Jetpack_Compose-orange)
 ![Static Badge](https://img.shields.io/badge/Room-orange)
 ![Static Badge](https://img.shields.io/badge/Coroutines-orange)
+![Static Badge](https://img.shields.io/badge/Dagger_Hilt-orange)
 
 <i>Cycling Manager under development 🚧</i>
 <div class="inline-block">
