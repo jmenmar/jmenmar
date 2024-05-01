@@ -111,9 +111,12 @@
 ![Static Badge](https://img.shields.io/badge/Coroutines-orange)
 ![Static Badge](https://img.shields.io/badge/Dagger_Hilt-orange)
 
-<i>Multiplayer online cards game under development 🚧</i>
+<i>Multiplayer online cards game where you will have to be the fastest to lose all your cards.</i>
 <div class="inline-block">
   <img src="https://lh3.googleusercontent.com/pw/AP1GczOaW_M8rVgcO9GNdIbFN6QIonxZyvTu1tGaridbC-wfeph4n0BQYTqFpBXoDAKtyUQaussorQ9V8Skzpe1uAAcY8tG0Q0GEwO0rsWvRKmp6xbthxZJpog40R5Hpzq4BOIUy2Uih9bBlGYVXCreDpJwf=w416-h841-s-no?authuser=0" width="150" height="300">
+ <img src="https://lh3.googleusercontent.com/pw/AP1GczOgM2NIxOlKWPf36qd_-i2nwDD40Cx5leG8-8PDNxrQpFq6_bAmtWQszibXF8zNURgm-kdzbjgBDitdNNVQ1IwfT4JQuJlB-k6ZKrMdGEQU4Ejfvd6eOxsI4N8QiyzLHuqqBh4LT05r5OP-KiFd19j1=w372-h748-s-no?authuser=0" width="150" height="300">
+ <img src="https://lh3.googleusercontent.com/pw/AP1GczOnqX1n34r99h7e3QXfFqNSKJO8ntQQ7LKw5VhpQECXjAkJNyDwQYABE-99YLah-X0wei4zuvwQxnNoiLJ6uyf3nNpxvTYKSGcH3fzTYIakvOtGe2zbCfz1L-GNzPoUEG7WFh1SoRcJ51JK208GG8Wv=w373-h748-s-no?authuser=0" width="150" height="300">
+ <img src="https://lh3.googleusercontent.com/pw/AP1GczOgL7spH8PAYtL06edvvkz4SmdY5DZH5fF_Fp5DvPhE94RxODHV9MPXFgljA6hEgYndOJCUjNEjoyalgRaAjbTbnPxSbrqTk9KvOx6A4B-I9wiDUesNUo__WiVEmw-aPPSVCbxNN2EnVrFhbe4fgWju=w373-h748-s-no?authuser=0" width="150" height="300">
 </div>
 
 ### 🚵 Breakaway
