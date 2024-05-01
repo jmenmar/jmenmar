@@ -77,6 +77,7 @@
 ![Static Badge](https://img.shields.io/badge/Dagger_Hilt-orange)
 ![Static Badge](https://img.shields.io/badge/Coil-orange)
 ![Static Badge](https://img.shields.io/badge/Vico_Charts-orange)
+![Static Badge](https://img.shields.io/badge/Preferences_DataStore-orange)
 
 <i>Application for home use to record food needs, foods in freezer, weekly menu, keep a shopping list and record purchases tickets. 'Goxo Goxo' in basque means yummy yummy</i>
 <div class="inline-block">
