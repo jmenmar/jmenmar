@@ -119,6 +119,21 @@
  <img src="https://lh3.googleusercontent.com/pw/AP1GczOgL7spH8PAYtL06edvvkz4SmdY5DZH5fF_Fp5DvPhE94RxODHV9MPXFgljA6hEgYndOJCUjNEjoyalgRaAjbTbnPxSbrqTk9KvOx6A4B-I9wiDUesNUo__WiVEmw-aPPSVCbxNN2EnVrFhbe4fgWju=w373-h748-s-no?authuser=0" width="150" height="300">
 </div>
 
+### 🛸 Rick and Morty
+
+![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
+![Static Badge](https://img.shields.io/badge/Jetpack_Compose-orange)
+![Static Badge](https://img.shields.io/badge/Retrofit-orange)
+![Static Badge](https://img.shields.io/badge/Coroutines-orange)
+![Static Badge](https://img.shields.io/badge/Dagger_Hilt-orange)
+![Static Badge](https://img.shields.io/badge/Glide-orange)
+
+<i>Rick and Morty characters app using the Rick and Morty API.</i>
+<div class="inline-block">
+  <img src="https://lh3.googleusercontent.com/pw/AP1GczMuJ15JkVuutMYwk7AZBJO217EHsQVQWV6IysbmD5Fbx9NKbABc4rXSaS9NSQHoTATgI-j1sbRR377wIY--Jv60r82s1H6bZr7TQAQCfdxeStilumQJ_4VKK977WDY5ym90j17BAK3YglXpXcq1RBZA=w375-h748-s-no?authuser=0" width="150" height="300">
+ <img src="https://lh3.googleusercontent.com/pw/AP1GczNjpZ816uLidAGAUaJvLsWBDOlAP9ercfGSCWPX2jgCTH1YI5nacJeZ6Jjxwn-EjZDSWOgZ6iT9HEcSAIzhHZ_GLNmw1bN88B1rQxelUl99W4AcodxFdKXMnHouF0-jh3vSSDaY_r3aIBi1n7nEmfEK=w375-h748-s-no?authuser=0" width="150" height="300">
+ <img src="https://lh3.googleusercontent.com/pw/AP1GczN2dszeWUhnxVw1Ra-hJNDIwLY5uy4b_Wz_HeSJ_xBBvZeIuprOgMpVI8g4nTX04tW1-BRd6lIswc-Gzyqgju5X-K14xFd9PIHckAQ5YVpmfcmELkPDumToh_u_Brw7h8pEyCIMQ4T2mRTrI0nV_vOA=w374-h748-s-no?authuser=0" width="150" height="300">
+
 ### 🚵 Breakaway
 
 ![Static Badge](https://img.shields.io/badge/Android-grey?logo=Android)
