@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
-<h3 align="center">A passionate mobile developer from Basque Country, Spain</h3>
+<h3 align="center">A developer who found his ikigai on mobile apps development</h3>
 <h4 align="center">I love to use my imagination and creativity along with the ability to develop new mobile apps. This allows me to enjoy my work. My head is a universe full of ideas! 🌌</h4>
 </br>
 
