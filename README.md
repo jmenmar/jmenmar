@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Javier
-... a random engineer who found his ikigan in mobile application development. Imagination and creativity is constantly flowing in my mind which allows me to develop new ideas. I am also lucky enough to enjoy my work.
+... a random engineer who found his ikigai in mobile application development. Imagination and creativity is constantly flowing in my mind which allows me to develop new ideas. I am also lucky enough to enjoy my work.
 I like minimalism and meditation, and I'm a big fan of matcha tea and good coffee.
 
 <a href='https://ko-fi.com/M4M81BA54O' target='_blank'><img height='32' style='border:0px;height:32px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
